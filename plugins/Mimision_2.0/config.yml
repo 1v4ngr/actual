@@ -1,0 +1,32 @@
+
+#config.yml
+#Este archivo de configuracion corresponde a las opciones generales del plugin
+
+#Si desea editar los mensajes, dirijase a messages.yml
+
+opciones:
+  mimision:
+    #Del 1 al 1000 que tan rapido se hace de dia cuando se duerme (Velocidad en Ticks avanzados por cada tick del juego)
+    #Es decir, si la velocidad es 125, en 1 tick del juego, se van a avanzar 125 ticks del tiempo.
+    #Default: 125
+    velocidad del amanecer: 125
+
+    #Porcentaje de jugadores que tienen que votar para pasar la noche
+    #Default: 50
+    porcentaje de votos: 50
+
+    #Distancia en bloques hasta una cama
+    #Horizontal: Cuantos bloques en los ejes X Z
+    #Vertical: Cuantos bloques en el eje Y
+    #Default: 20 y 10
+    distancia a cama:
+      horizontal: 20
+      vertical: 10
+
+  afk:
+    #En minutos
+    tiempo hasta afk: 5
+    #Es invencible si esta afk?
+    invencible: false
+    #Es inmovible si esta afk?
+    inmovible: false

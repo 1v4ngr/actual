@@ -1,0 +1,270 @@
+[00:04:24] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[00:04:29] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[00:04:34] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[00:04:39] [Server thread/INFO]: Nachin44 has made the advancement [Sweet Dreams]
+[00:04:45] [Async Chat Thread - #0/INFO]: <daviddprc16> flacoo
+[00:07:06] [Server thread/INFO]: Nachin44 has made the advancement [A Seedy Place]
+[00:13:05] [Server thread/INFO]: Villager EntityVillager['Villager'/1383, uuid='87a199c8-84d0-4689-8ee2-c4966f973bb8', l='ServerLevel[world]', x=-184.51, y=67.00, z=-446.28, cpos=[-12, -28], tl=333752, v=true] died, message: 'Villager was slain by Felipe Sin glu'
+[00:14:38] [Server thread/WARN]: Nachin44 moved too quickly! 11.15434167260969,0.08307781780646906,1.9030047917445927
+[00:15:23] [Server thread/INFO]: Nachin44 lost connection: Disconnected
+[00:15:23] [Server thread/INFO]: Nachin44 left the game
+[00:16:36] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[00:16:36] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[00:16:38] [Server thread/INFO]: Cryptic_ES issued server command: /mimir
+[00:16:38] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[00:16:38] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[00:16:38] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[00:27:21] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[00:27:21] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[00:27:23] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[00:30:30] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:feather_falling 4
+[00:30:30] [Server thread/INFO]: [daviddprc16: Applied enchantment Feather Falling IV to daviddprc16's item]
+[00:36:14] [Server thread/INFO]: Cryptic_ES issued server command: /tp @s -176 -46.5 -282
+[00:36:14] [Server thread/INFO]: [Cryptic_ES: Teleported Cryptic_ES to -175.500000, -46.500000, -281.500000]
+[00:36:14] [Server thread/WARN]: Cryptic_ES moved too quickly! -139.7337248013187,-110.5,153.1434119433556
+[00:37:04] [Server thread/INFO]: Cryptic_ES issued server command: /tp daviddprc16
+[00:37:04] [Server thread/INFO]: [Cryptic_ES: Teleported Cryptic_ES to daviddprc16]
+[00:37:04] [Server thread/WARN]: Cryptic_ES moved too quickly! 133.29791244876387,116.01144555169176,-193.6138917910135
+[00:38:39] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[00:38:39] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[00:38:45] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[00:43:23] [Server thread/INFO]: daviddprc16 issued server command: /gamemode
+[00:43:29] [Server thread/INFO]: daviddprc16 issued server command: /gamemode spectator
+[00:43:29] [Server thread/INFO]: [daviddprc16: Set own game mode to Spectator Mode]
+[00:43:53] [Server thread/INFO]: daviddprc16 issued server command: /gamemode
+[00:43:58] [Server thread/INFO]: daviddprc16 issued server command: /gamemode s
+[00:44:04] [Server thread/INFO]: daviddprc16 issued server command: /gamemode survival
+[00:44:04] [Server thread/INFO]: [daviddprc16: Set own game mode to Survival Mode]
+[00:49:42] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[00:49:42] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[00:49:53] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[00:53:47] [Server thread/INFO]: daviddprc16 issued server command: /team add rojo
+[00:53:47] [Server thread/INFO]: [daviddprc16: Created team [rojo]]
+[00:55:21] [Server thread/INFO]: Cryptic_ES issued server command: /tp @s 2 68.5 -441
+[00:55:21] [Server thread/INFO]: [Cryptic_ES: Teleported Cryptic_ES to 2.500000, 68.500000, -440.500000]
+[00:55:21] [Server thread/WARN]: Cryptic_ES moved too quickly! 164.58702010815503,1.5,1.2527721132451575
+[00:55:32] [Server thread/INFO]: Cryptic_ES issued server command: /tp @s -159 67.5 -442
+[00:55:32] [Server thread/INFO]: [Cryptic_ES: Teleported Cryptic_ES to -158.500000, 67.500000, -441.500000]
+[00:55:32] [Server thread/WARN]: Cryptic_ES moved too quickly! -160.04291221453897,-0.5,-9.916529886573073
+[00:56:03] [Server thread/INFO]: Cryptic_ES issued server command: /tp @s 2 68.5 -441
+[00:56:03] [Server thread/INFO]: [Cryptic_ES: Teleported Cryptic_ES to 2.500000, 68.500000, -440.500000]
+[00:56:10] [Server thread/INFO]: daviddprc16 issued server command: /team modify rojo prefix {"text":"[rojo]","color":"red"}
+[00:56:27] [Server thread/INFO]: Cryptic_ES issued server command: /team join rojo Cryptic_ES
+[00:56:27] [Server thread/INFO]: [Cryptic_ES: Added Cryptic_ES to team [rojo]]
+[00:56:49] [Server thread/INFO]: daviddprc16 issued server command: /team join rojo daviddprc16
+[00:56:49] [Server thread/INFO]: [daviddprc16: Added daviddprc16 to team [rojo]]
+[00:57:00] [Server thread/INFO]: Cryptic_ES issued server command: /team list
+[00:57:04] [Server thread/INFO]: daviddprc16 issued server command: /teammsg Hola
+[00:57:47] [Server thread/INFO]: daviddprc16 issued server command: /scoreboard objectives add vida health
+[00:57:47] [Server thread/INFO]: [[rojo]daviddprc16: Created new objective [vida]]
+[00:58:09] [Server thread/INFO]: daviddprc16 issued server command: /scoreboard objectives setdisplay list vida
+[00:58:09] [Server thread/INFO]: [[rojo]daviddprc16: Set display slot list to show objective vida]
+[01:00:33] [Server thread/INFO]: Cryptic_ES issued server command: /xp set Cryptic_ES 0 levels
+[01:00:33] [Server thread/INFO]: [[rojo]Cryptic_ES: Set 0 experience levels on [rojo]Cryptic_ES]
+[01:00:41] [Server thread/INFO]: Cryptic_ES issued server command: /xp add daviddprc16 5 levels
+[01:00:41] [Server thread/INFO]: [[rojo]Cryptic_ES: Gave 5 experience levels to [rojo]daviddprc16]
+[01:00:55] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[01:00:55] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[01:00:57] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[01:04:21] [Server thread/INFO]: Cryptic_ES issued server command: /xp add daviddprc16 20 levels
+[01:04:21] [Server thread/INFO]: [[rojo]Cryptic_ES: Gave 20 experience levels to [rojo]daviddprc16]
+[01:11:39] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[01:11:43] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[01:11:44] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[01:11:47] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[01:11:58] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[01:11:58] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[01:11:58] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[01:12:00] [Server thread/INFO]: Cryptic_ES issued server command: /mimir
+[01:12:14] [Server thread/INFO]: daviddprc16 issued server command: /tp Cryptic_ES
+[01:12:14] [Server thread/INFO]: [[rojo]daviddprc16: Teleported [rojo]daviddprc16 to [rojo]Cryptic_ES]
+[01:16:54] [Server thread/INFO]: [rojo]Cryptic_ES has made the advancement [Eye Spy]
+[01:17:12] [Server thread/INFO]: daviddprc16 issued server command: /tp Cryptic_ES
+[01:17:12] [Server thread/INFO]: [[rojo]daviddprc16: Teleported [rojo]daviddprc16 to [rojo]Cryptic_ES]
+[01:17:13] [Server thread/INFO]: [rojo]daviddprc16 has made the advancement [Eye Spy]
+[01:22:01] [Server thread/INFO]: daviddprc16 issued server command: /tp Cryptic_ES
+[01:22:01] [Server thread/INFO]: [[rojo]daviddprc16: Teleported [rojo]daviddprc16 to [rojo]Cryptic_ES]
+[01:22:41] [Server thread/INFO]: Cryptic_ES issued server command: /tp @s 2 68.5 -441
+[01:22:41] [Server thread/INFO]: [[rojo]Cryptic_ES: Teleported [rojo]Cryptic_ES to 2.500000, 68.500000, -440.500000]
+[01:23:01] [Server thread/INFO]: Cryptic_ES issued server command: /tp daviddprc16
+[01:23:01] [Server thread/INFO]: [[rojo]Cryptic_ES: Teleported [rojo]Cryptic_ES to [rojo]daviddprc16]
+[01:23:01] [Server thread/WARN]: Cryptic_ES moved too quickly! 1428.3791245034436,-43.0,-405.9400305672178
+[01:24:42] [Server thread/INFO]: [rojo]Cryptic_ES has made the advancement [The End?]
+[01:24:42] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[01:24:42] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[01:24:43] [Server thread/INFO]: [rojo]daviddprc16 has made the advancement [The End?]
+[01:25:59] [Server thread/INFO]: [rojo]daviddprc16 has reached the goal [You Need a Mint]
+[01:28:12] [Server thread/INFO]: [rojo]daviddprc16 has made the advancement [Take Aim]
+[01:29:45] [Server thread/INFO]: [rojo]Cryptic_ES has made the advancement [Free the End]
+[01:30:30] [Server thread/INFO]: [rojo]daviddprc16 has reached the goal [The Next Generation]
+[01:30:37] [Server thread/INFO]: [rojo]Cryptic_ES has reached the goal [The Next Generation]
+[01:32:12] [Server thread/INFO]: Cryptic_ES issued server command: /give Cryptic_ES minecraft:crafting_table
+[01:32:12] [Server thread/INFO]: [[rojo]Cryptic_ES: Gave 1 [Crafting Table] to [rojo]Cryptic_ES]
+[01:36:02] [Server thread/INFO]: [rojo]Cryptic_ES has made the advancement [Remote Getaway]
+[01:36:25] [Server thread/INFO]: [rojo]daviddprc16 has made the advancement [Remote Getaway]
+[01:37:47] [Server thread/INFO]: daviddprc16 issued server command: /locate structure minecraft:ancient_city
+[01:37:48] [Server thread/INFO]: Cryptic_ES issued server command: /locate structure minecraft:ancient_city
+[01:37:56] [Server thread/INFO]: daviddprc16 issued server command: /locate structure minecraft:end_city
+[01:37:56] [Server thread/INFO]: Cryptic_ES issued server command: /locate structure minecraft:end_city
+[01:39:33] [Server thread/INFO]: [rojo]daviddprc16 has made the advancement [The City at the End of the Game]
+[01:39:36] [Server thread/INFO]: [rojo]Cryptic_ES has made the advancement [The City at the End of the Game]
+[01:42:48] [Async Chat Thread - #1/INFO]: <daviddprc16> 1393 -573
+[01:47:06] [Server thread/INFO]: Cryptic_ES issued server command: /tp daviddprc16
+[01:47:06] [Server thread/INFO]: [[rojo]Cryptic_ES: Teleported [rojo]Cryptic_ES to [rojo]daviddprc16]
+[01:47:06] [Server thread/WARN]: Cryptic_ES moved too quickly! 5.918424720593066,20.0,-4.069550598388446
+[01:47:06] [Server thread/WARN]: Cryptic_ES moved too quickly! 5.918424720593066,20.0,-4.069550598388446
+[01:51:36] [Server thread/INFO]: daviddprc16 issued server command: /tp Cryptic_ES
+[01:51:36] [Server thread/INFO]: [[rojo]daviddprc16: Teleported [rojo]daviddprc16 to [rojo]Cryptic_ES]
+[01:53:10] [Server thread/INFO]: [rojo]daviddprc16 has reached the goal [Sky's the Limit]
+[01:55:19] [Async Chat Thread - #2/INFO]: <Cryptic_ES> 1722 -538
+[01:55:26] [Async Chat Thread - #2/INFO]: <Cryptic_ES> 1722 -1538
+[01:57:15] [Server thread/INFO]: Cryptic_ES issued server command: /tp @s 1722 142.5 -1538
+[01:57:15] [Server thread/INFO]: [[rojo]Cryptic_ES: Teleported [rojo]Cryptic_ES to 1722.500000, 142.500000, -1537.500000]
+[01:57:17] [Server thread/INFO]: daviddprc16 issued server command: /tp Cryptic_ES
+[01:57:17] [Server thread/INFO]: [[rojo]daviddprc16: Teleported [rojo]daviddprc16 to [rojo]Cryptic_ES]
+[02:00:20] [Server thread/INFO]: [rojo]Cryptic_ES has reached the goal [Sky's the Limit]
+[02:01:10] [Server thread/INFO]: daviddprc16 issued server command: /tp Cryptic_ES
+[02:01:10] [Server thread/INFO]: [[rojo]daviddprc16: Teleported [rojo]daviddprc16 to [rojo]Cryptic_ES]
+[02:01:10] [Server thread/WARN]: daviddprc16 moved too quickly! -74.48967313732851,40.799999952316284,68.53374772123948
+[02:03:05] [Server thread/INFO]: Cryptic_ES issued server command: /tp @s 6 64.5 -3
+[02:03:05] [Server thread/INFO]: [[rojo]Cryptic_ES: Teleported [rojo]Cryptic_ES to 6.500000, 64.500000, -2.500000]
+[02:03:05] [Server thread/WARN]: Cryptic_ES moved too quickly! -1643.809134325892,-89.5,1486.9257736998038
+[02:03:08] [Server thread/INFO]: daviddprc16 issued server command: /tp Cryptic_ES
+[02:03:08] [Server thread/INFO]: [[rojo]daviddprc16: Teleported [rojo]daviddprc16 to [rojo]Cryptic_ES]
+[02:03:45] [Server thread/INFO]: Cryptic_ES issued server command: /tp @s 2 68.5 -441
+[02:03:45] [Server thread/INFO]: [[rojo]Cryptic_ES: Teleported [rojo]Cryptic_ES to 2.500000, 68.500000, -440.500000]
+[02:03:45] [Server thread/WARN]: Cryptic_ES moved too quickly! -1399.910694931078,59.5,407.70920244322247
+[02:03:48] [Server thread/INFO]: daviddprc16 issued server command: /tp Cryptic_ES
+[02:03:48] [Server thread/INFO]: [[rojo]daviddprc16: Teleported [rojo]daviddprc16 to [rojo]Cryptic_ES]
+[02:03:52] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[02:03:52] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[02:08:33] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:sharpness 5
+[02:08:39] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:sharpness 5
+[02:08:56] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft: 5
+[02:09:10] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:sharpness 5
+[02:09:44] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:mending
+[02:09:44] [Server thread/INFO]: [[rojo]daviddprc16: Applied enchantment Mending to [rojo]daviddprc16's item]
+[02:09:55] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:unbreaking 3
+[02:09:55] [Server thread/INFO]: [[rojo]daviddprc16: Applied enchantment Unbreaking III to [rojo]daviddprc16's item]
+[02:14:52] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[02:14:52] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[02:14:53] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[02:15:03] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[02:15:04] [Server thread/INFO]: Cryptic_ES issued server command: /mimir
+[02:15:34] [Server thread/INFO]: daviddprc16 lost connection: Disconnected
+[02:15:34] [Server thread/INFO]: daviddprc16 left the game
+[02:17:05] [User Authenticator #6/INFO]: UUID of player daviddprc16 is 8739bf0f-73a0-39fb-b8fb-354f0a018a2e
+[02:17:05] [Server thread/INFO]: [rojo]daviddprc16 joined the game
+[02:17:05] [Server thread/INFO]: daviddprc16[/149.74.128.149:59272] logged in with entity id 50216 at ([world]-70.55268794642062, 64.0, -439.6138762033677)
+[02:24:59] [Server thread/INFO]: %vault_prefix% Cryptic_ES is bleeding so bad..
+[02:25:22] [Server thread/INFO]: %vault_prefix% Cryptic_ES has been revived by %vault_prefix% daviddprc16!
+[02:26:05] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[02:26:05] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[02:26:09] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[02:36:26] [Server thread/INFO]: daviddprc16 issued server command: /locate structure #minecraft:spawner
+[02:37:44] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[02:37:44] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[02:37:47] [Server thread/INFO]: Cryptic_ES issued server command: /mimir
+[02:37:47] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[02:37:47] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[02:37:47] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[02:42:29] [Server thread/INFO]: daviddprc16 issued server command: /team add Animalista
+[02:42:29] [Server thread/INFO]: [[rojo]daviddprc16: Created team [Animalista]]
+[02:43:01] [Server thread/INFO]: daviddprc16 issued server command: /team add TocaPelotas
+[02:43:01] [Server thread/INFO]: [[rojo]daviddprc16: Created team [TocaPelotas]]
+[02:43:36] [Server thread/INFO]: daviddprc16 issued server command: /team add LuckyMan
+[02:43:36] [Server thread/INFO]: [[rojo]daviddprc16: Created team [LuckyMan]]
+[02:44:23] [Async Chat Thread - #3/INFO]: <daviddprc16> DaviddPN16
+[02:44:36] [Async Chat Thread - #3/INFO]: <daviddprc16> dapapaja
+[02:45:07] [Server thread/INFO]: daviddprc16 issued server command: /team add MR.Pluggin
+[02:45:07] [Server thread/INFO]: [[rojo]daviddprc16: Created team [MR.Pluggin]]
+[02:46:38] [Server thread/INFO]: daviddprc16 issued server command: /team add MinorMan
+[02:46:38] [Server thread/INFO]: [[rojo]daviddprc16: Created team [MinorMan]]
+[02:47:19] [Server thread/INFO]: daviddprc16 issued server command: /team remove rojo
+[02:47:19] [Server thread/INFO]: [[rojo]daviddprc16: Removed team [rojo]]
+[02:47:49] [Server thread/INFO]: daviddprc16 issued server command: /team join MinorMan daviddprc16
+[02:47:49] [Server thread/INFO]: [daviddprc16: Added daviddprc16 to team [MinorMan]]
+[02:48:06] [Server thread/INFO]: daviddprc16 issued server command: /team join MR.Pluggin Cryptic_ES
+[02:48:06] [Server thread/INFO]: [daviddprc16: Added Cryptic_ES to team [MR.Pluggin]]
+[02:48:24] [Server thread/INFO]: Cryptic_ES lost connection: Disconnected
+[02:48:24] [Server thread/INFO]: Cryptic_ES left the game
+[02:48:26] [User Authenticator #7/INFO]: UUID of player Cryptic_ES is e601a4ad-8e8b-3ebd-8a90-7069b7b194a2
+[02:48:26] [Server thread/INFO]: Cryptic_ES joined the game
+[02:48:26] [Server thread/INFO]: Cryptic_ES[/127.0.0.1:63931] logged in with entity id 57656 at ([world]-43.33654666953498, 64.9375, -451.11715356095203)
+[02:48:32] [Server thread/INFO]: daviddprc16 lost connection: Disconnected
+[02:48:32] [Server thread/INFO]: daviddprc16 left the game
+[02:48:33] [Async Chat Thread - #4/INFO]: <Cryptic_ES> D
+[02:48:34] [User Authenticator #7/INFO]: UUID of player daviddprc16 is 8739bf0f-73a0-39fb-b8fb-354f0a018a2e
+[02:48:34] [Server thread/INFO]: daviddprc16 joined the game
+[02:48:34] [Server thread/INFO]: daviddprc16[/149.74.128.149:65332] logged in with entity id 57679 at ([world]-28.792810950202135, 64.0, -448.7853757003494)
+[02:49:04] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[02:49:04] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[02:49:08] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[02:51:28] [Server thread/INFO]: daviddprc16 issued server command: /team modify MR.Pluggin prefix {"text":"[MR.Pluggin]","color":"gold"}
+[02:51:33] [Async Chat Thread - #5/INFO]: <Cryptic_ES> D
+[02:52:11] [Server thread/INFO]: daviddprc16 issued server command: /team modify MinorMan prefix {"text":"[MinorMan]","color":"Dark_red"}
+[02:52:18] [Server thread/INFO]: daviddprc16 issued server command: /team modify MinorMan prefix {"text":"[MinorMan]","color":"dark_red"}
+[02:53:36] [Server thread/INFO]: daviddprc16 issued server command: /team modify TocaPelotas prefix {"text":"[TocaPelotas]","color":"light_purple"}
+[02:54:21] [Server thread/INFO]: daviddprc16 issued server command: /team modify LuckyMan prefix {"text":"[LuckyMan]","color":"yellow"}
+[02:55:26] [Server thread/INFO]: daviddprc16 issued server command: /team modify Animalista prefix {"text":"[Animalista]","color":"darck_green"}
+[02:55:35] [Server thread/INFO]: daviddprc16 issued server command: /team modify Animalista prefix {"text":"[Animalista]","color":"dark_green"}
+[02:55:44] [Async Chat Thread - #6/INFO]: <Cryptic_ES> DF
+[02:55:51] [Server thread/INFO]: daviddprc16 issued server command: /team modify Animalista prefix {"text":"[Animalista]","color":"green"}
+[02:56:09] [Server thread/INFO]: daviddprc16 issued server command: /teammsg hola
+[03:01:13] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[03:01:13] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[03:01:15] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[03:12:10] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[03:12:10] [Server thread/INFO]: Mimision » Se va a realizar la mimision (OwO)
+[03:12:13] [Server thread/INFO]: daviddprc16 issued server command: /mimir
+[03:20:02] [Server thread/INFO]: Cryptic_ES lost connection: Disconnected
+[03:20:02] [Server thread/INFO]: Cryptic_ES left the game
+[03:30:36] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:mending
+[03:30:40] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:mending
+[03:30:40] [Server thread/INFO]: [[MinorMan]daviddprc16: Applied enchantment Mending to [MinorMan]daviddprc16's item]
+[03:31:06] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:fortune 4
+[03:31:10] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:fortune 3
+[03:31:10] [Server thread/INFO]: [[MinorMan]daviddprc16: Applied enchantment Fortune III to [MinorMan]daviddprc16's item]
+[03:42:31] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:looting 5
+[03:42:35] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:looting 3
+[03:42:35] [Server thread/INFO]: [[MinorMan]daviddprc16: Applied enchantment Looting III to [MinorMan]daviddprc16's item]
+[03:44:36] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:power 5
+[03:44:56] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:power 5
+[03:44:56] [Server thread/INFO]: [[MinorMan]daviddprc16: Applied enchantment Power V to [MinorMan]daviddprc16's item]
+[03:45:06] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:mending
+[03:45:06] [Server thread/INFO]: [[MinorMan]daviddprc16: Applied enchantment Mending to [MinorMan]daviddprc16's item]
+[03:45:16] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:unbreaking
+[03:45:16] [Server thread/INFO]: [[MinorMan]daviddprc16: Applied enchantment Unbreaking I to [MinorMan]daviddprc16's item]
+[03:45:29] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:power 5
+[03:45:29] [Server thread/INFO]: [[MinorMan]daviddprc16: Applied enchantment Power V to [MinorMan]daviddprc16's item]
+[03:45:32] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:mending
+[03:45:32] [Server thread/INFO]: [[MinorMan]daviddprc16: Applied enchantment Mending to [MinorMan]daviddprc16's item]
+[03:45:39] [Server thread/INFO]: daviddprc16 issued server command: /enchant daviddprc16 minecraft:unbreaking 3
+[03:45:39] [Server thread/INFO]: [[MinorMan]daviddprc16: Applied enchantment Unbreaking III to [MinorMan]daviddprc16's item]
+[03:47:24] [Server thread/INFO]: [Mimision_2.0] Cama cerca.
+[03:52:32] [Server thread/INFO]: Stopping the server
+[03:52:32] [Server thread/INFO]: Stopping server
+[03:52:32] [Server thread/INFO]: [BetterRevive] Disabling BetterRevive v0.9.1-BETA
+[03:52:32] [Server thread/INFO]:  
+[03:52:32] [Server thread/INFO]: [BetterRevive] Plugin has been disabled!
+[03:52:32] [Server thread/INFO]: [BetterRevive] Thank you for using my plugin!
+[03:52:32] [Server thread/INFO]:  
+[03:52:32] [Server thread/INFO]: [Mimision_2.0] Disabling Mimision_2.0 v2.0-1.17
+[03:52:32] [Server thread/INFO]: [NBTAPI] Disabling NBTAPI v2.10.0
+[03:52:32] [Server thread/INFO]: [Colored Signs] Disabling ColoredSigns v6.0.0
+[03:52:32] [Server thread/INFO]: Colored Signs is now disabled!
+[03:52:32] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.3
+[03:52:32] [Server thread/INFO]: Saving players
+[03:52:32] [Server thread/INFO]: daviddprc16 lost connection: Server closed
+[03:52:32] [Server thread/INFO]: daviddprc16 left the game
+[03:52:32] [Server thread/INFO]: Saving worlds
+[03:52:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:52:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:52:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:52:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:52:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:52:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:52:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:52:36] [Server thread/INFO]: Flushing Chunk IO
+[03:52:36] [Server thread/INFO]: Closing Thread Pool
+[03:52:36] [Server thread/INFO]: Closing Server
